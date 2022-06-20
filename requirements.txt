@@ -1,0 +1,12 @@
+gym
+pygame
+argparse
+codetiming
+stable_baselines3
+pandas
+tqdm
+tensorboard
+numpy
+sb3_contrib
+sklearn
+pyglet
